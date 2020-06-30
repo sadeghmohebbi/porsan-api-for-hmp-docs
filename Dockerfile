@@ -1,4 +1,4 @@
-FROM node:12.18-alpine
+FROM node:10.13-alpine
 ENV NODE_ENV production
 WORKDIR /usr/src/app
 RUN npm i docsify-cli -g
