@@ -6,7 +6,7 @@ Version1 (v1) <br>
 https://javabina.com/api/v1
 
 ### Notes
-1. Pagination System Structure is the same as [hamdam-core-api](http://hamdam-core-api.tebyansmart.com) api
+1. Pagination System Structure is the same as [hamdam-core-api](http://hamdam-core-api.tebyansmart.com) specification
 
 ## APIs
 
