@@ -37,7 +37,23 @@
   {
     "id": "4214",
     "title": "یه سوال تستی پرسیدم الآن از طریق وب سرویس پرسان برای همدم",
+    "question": "یه سوال تستی پرسیدم الآن از طریق وب سرویس پرسان برای همدم",
     "user": null
+  }
+  ```
+
+  user is not null when isAnonymous is 0 <br>
+
+  ```json
+  {
+    "id": "9632",
+    "title": "عنوان تستس",
+    "question": "یه سوال تستی پرسیدم الآن از طریق وب سرویس پرسان برای همدم",
+    "user": {
+      "id": "109",
+      "fullName": "porsan_bceecf1a-bd8f-463a-870b-77999da6112a",
+      "profileImageUrl": "http:\/\/localhost:8000\/assets\/imgs\/defaults\/avatar.png"
+    }
   }
   ```
 

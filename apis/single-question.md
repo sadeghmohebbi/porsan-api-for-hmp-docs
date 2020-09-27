@@ -33,6 +33,7 @@
     "question": {
       "id": "4184",
       "title": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
+      "question": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
       "user": {
         "id": "45",
         "fullName": "sadeghmohebbi",

@@ -44,10 +44,13 @@
     "qas": [
       {
         "questionId": "4184",
+        "question": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
         "questionTitle": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
         "answer": "اینم یه عکس افقی",
-        "numAnswerUpvotes": "0",
+        "numAnswerUpvotes": "1",
         "numAnswerDownvotes": "0",
+        "meIsAnswerUpvote": true,
+        "meIsAnswerDownvote": false,
         "questionUserOwner": {
           "id": "45",
           "fullName": "sadeghmohebbi",
