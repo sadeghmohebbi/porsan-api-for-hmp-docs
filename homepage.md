@@ -14,6 +14,8 @@ https://porsan.com/api/v1
 * [GET /Topics](/apis/topics)
 * [GET /TopicContent/{topic_id}](/apis/topic-content)
 * [GET /Questions/{question_id}](/apis/single-question)
+* [POST /Questions/{question_id}/Upvote](/apis/question-upvote)
+* [POST /Questions/{question_id}/Follow](/apis/question-follow)
 * [POST /Questions](/apis/create-question)
 * [DELETE /Questions/{question_id}](/apis/remove-question)
 * [GET /Accounts/Me](/apis/accounts-me)
