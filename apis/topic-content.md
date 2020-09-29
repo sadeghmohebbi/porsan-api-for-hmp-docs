@@ -49,8 +49,11 @@
         "answer": "اینم یه عکس افقی",
         "numAnswerUpvotes": "1",
         "numAnswerDownvotes": "0",
-        "meIsAnswerUpvote": true,
-        "meIsAnswerDownvote": false,
+        "numQuestionUpvotes": "4",
+        "numQuestionFollows": "2",
+        "meIsAnswerUpvoted": true,
+        "meIsAnswerDownvoted": false,
+        "meIsQuestionFollowed": false,
         "questionUserOwner": {
           "id": "45",
           "fullName": "sadeghmohebbi",

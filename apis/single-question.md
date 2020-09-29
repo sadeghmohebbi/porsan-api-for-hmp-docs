@@ -34,6 +34,10 @@
       "id": "4184",
       "title": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
       "question": "در توسعه ی سایت جوابینا، چرا phalcon و چرا node js نه؟",
+      "numUpvotes": 0,
+      "numFollows": 0,
+      "isUpvoted": true,
+      "isFollowed": false,
       "user": {
         "id": "45",
         "fullName": "sadeghmohebbi",
@@ -50,7 +54,9 @@
           "profileImageUrl": "http:\/\/localhost:8000\/assets\/imgs\/defaults\/avatar.png"
         },
         "numUpvotes": "1",
-        "numDownvotes": "0"
+        "numDownvotes": "0",
+        "isUpvoted": true,
+        "isDownvoted": false
       },
       {
         "id": "524",
@@ -61,7 +67,9 @@
           "profileImageUrl": "http:\/\/localhost:8000\/assets\/imgs\/defaults\/avatar.png"
         },
         "numUpvotes": "0",
-        "numDownvotes": "1"
+        "numDownvotes": "2",
+        "isUpvoted": false,
+        "isDownvoted": true
       }
     ]
   }
